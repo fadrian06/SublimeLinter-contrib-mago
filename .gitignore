@@ -39,3 +39,5 @@ Thumbs.db
 # Node installed packages #
 ###########################
 node_modules/*
+
+SublimeLinter
