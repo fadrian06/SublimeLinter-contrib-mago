@@ -1,0 +1,3 @@
+[submodule "SublimeLinter"]
+	path = SublimeLinter
+	url = https://github.com/SublimeLinter/SublimeLinter
