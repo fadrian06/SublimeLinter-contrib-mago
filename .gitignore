@@ -40,4 +40,8 @@ Thumbs.db
 ###########################
 node_modules/*
 
-SublimeLinter
+/SublimeLinter
+composer.*
+/vendor
+mago.*
+/tests
