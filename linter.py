@@ -126,6 +126,9 @@ class MagoFormat(Mago):
                     if not next_filtered_output_line.startswith('+'):
                         break
 
+                    if not message:
+                        message += '­\n'
+
                     message += next_filtered_output_line[1:] + '\n'
                     next_index += 1
 
